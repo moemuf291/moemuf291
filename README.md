@@ -1,6 +1,15 @@
+
 <br clear="both">
 
 <h6 align="center">Hello welcome to my Github</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="550" src="https://pixune.com/wp-content/uploads/2024/04/games_ocean-heart-1030x687.webp"  />
+</div>
 
 ###
 
@@ -14,20 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="550" src="https://pixune.com/wp-content/uploads/2024/04/games_ocean-heart-1030x687.webp"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5jc25iamN0bmc0anYzMWF1bDVsd21oMm1rZGl1bW0zeHNtaWd1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.webp"  />
 </div>
 
 ###

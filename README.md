@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h6 align="center">Hello welcome to my Github</h6>
+<div align="center">
+  <img height="550" src="https://pixune.com/wp-content/uploads/2024/04/games_ocean-heart-1030x687.webp"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="550" src="https://pixune.com/wp-content/uploads/2024/04/games_ocean-heart-1030x687.webp"  />
-</div>
+<h6 align="center">Hello welcome to my Github</h6>
 
 ###
 

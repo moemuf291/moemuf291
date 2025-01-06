@@ -1,33 +1,19 @@
-<br clear="both">
 
-<div align="center">
-  <img height="550" src="https://pixune.com/wp-content/uploads/2024/04/games_ocean-heart-1030x687.webp"  />
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
 
-###
+![](https://github-readme-streak-stats.herokuapp.com/?user=moemuf291&theme=gruvbox&hide_border=true)<br/>
 
-<br clear="both">
 
-<h6 align="center">Hello welcome to my Github</h6>
 
-###
+  ![](https://github-contributor-stats.vercel.app/api?username=moemuf291&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-</div>
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=moemuf291&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/CruzNadin/cruznadin/refs/heads/main/github-contribution-grid-snake.gif"  />
 </div>
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -48,11 +49,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moemuf291/moemuf291/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moemuf291/moemuf291/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
-</picture>
+
 
 ###
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman Animation" />
+</div>
